@@ -8,6 +8,7 @@ from utils import logger
 
 my_logger = logger.get_logger()
 
+print("hello")
 
 def main():
     my_logger.info("Cleaning up...")
