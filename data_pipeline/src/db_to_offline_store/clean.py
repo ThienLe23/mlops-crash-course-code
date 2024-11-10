@@ -10,6 +10,7 @@ my_logger = logger.get_logger()
 
 print("hello")
 print('hello 2')
+print("hello 3")
 
 def main():
     my_logger.info("Cleaning up...")
